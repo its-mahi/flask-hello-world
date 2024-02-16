@@ -1,2 +1,6 @@
 Flask
 Gunicorn
+T5Tokenizer
+T5ForConditionalGeneration
+requests
+pandas
