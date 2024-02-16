@@ -1,5 +1,6 @@
 Flask
 Gunicorn
+sentencepiece
 T5Tokenizer
 T5ForConditionalGeneration
 requests
